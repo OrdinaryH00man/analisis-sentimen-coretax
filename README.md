@@ -83,3 +83,30 @@ streamlit run app.py
     <br><i>Prediksi sentimen realtime menggunakan model IndoBERT & K-Means</i>
   </p>
 </details>
+
+---
+
+## 🌐 English Version
+
+<details>
+  <summary><b>Click here to read the English version of this documentation</b></summary>
+  <br>
+
+  ### Sentiment Analysis of X Social Media Data Using K-Means Clustering and IndoBERT on Coretax Website Case Study
+
+  This repository contains a **Streamlit**-based web application to analyze public sentiments from social media X (Twitter) regarding the implementation of the Indonesian tax system, Coretax. This project utilizes **IndoBERT** (`indobenchmark/indobert-base-p1`) for contextual word embedding and **K-Means Clustering** to group sentiments into 3 categories: Positive, Negative, and Neutral.
+
+  #### 🚀 Key Features
+  * **Automated Text Preprocessing**: Data cleaning, slang word normalization, stopword removal, and stemming (Sastrawi/NLTK).
+  * **IndoBERT Embedding**: Accurate context-based feature extraction.
+  * **Real-time Sentiment Testing**: Predicts and provides descriptions for custom text input.
+  * **Data Visualization**: Interactive 2D PCA scatter plot, sentiment distribution, and cluster-based WordClouds.
+
+  #### 🛠️ Local Installation & Setup
+  1. Clone the repository: `git clone https://github.com/username/analisis-sentimen-coretax.git`
+  2. Install dependencies: `pip install -r requirements.txt`
+  3. Run the application: `streamlit run app.py`
+
+  #### 📸 Screenshots & Visualizations
+  *The English screenshots share the same structure as the Indonesian section above using interactive dropdowns.*
+</details>
