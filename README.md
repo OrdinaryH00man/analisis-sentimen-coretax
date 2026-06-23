@@ -14,7 +14,7 @@ Repositori ini berisi aplikasi web berbasis **Streamlit** untuk menganalisis sen
 
 ### 1. Kloning Repositori
 ```bash
-git clone [https://github.com/username/analisis-sentimen-coretax.git](https://github.com/username/analisis-sentimen-coretax.git)
+git clone https://github.com/username/analisis-sentimen-coretax.git
 cd analisis-sentimen-coretax
 ```
 
