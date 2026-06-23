@@ -19,13 +19,13 @@ cd analisis-sentimen-coretax
 ```
 
 ### 2. Buat Virtual Environment & Aktifkan
-* **Windows:
+* **Windows:**
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-* **Mac/Linux:
+* **Mac/Linux:**
 ```bash
 python3 -m venv venv
 source venv/bin/activate
