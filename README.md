@@ -79,7 +79,7 @@ streamlit run app.py
   <summary><b>3. Halaman Pengujian Sentimen Teks Baru (Klik untuk melihat)</b></summary>
   <br>
   <p align="center">
-    <img src="./assets/analsis.png" alt="Uji Sentimen Realtime" width="80%">
+    <img src="./assets/analisis.png" alt="Uji Sentimen Realtime" width="80%">
     <br><i>Prediksi sentimen realtime menggunakan model IndoBERT & K-Means</i>
   </p>
 </details>
