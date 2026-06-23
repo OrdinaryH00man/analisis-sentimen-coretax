@@ -43,7 +43,7 @@ streamlit run app.py
 
 ---
 
-## Visualisasi Data
+## Screenshot Aplikasi dan Visualisasi Data
 
 <details>
   <summary><b>1. Halaman Manajemen Dataset & Preprocessing (Klik untuk melihat)</b></summary>
