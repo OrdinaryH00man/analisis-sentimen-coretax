@@ -16,3 +16,22 @@ Repositori ini berisi aplikasi web berbasis **Streamlit** untuk menganalisis sen
 ```bash
 git clone [https://github.com/username/analisis-sentimen-coretax.git](https://github.com/username/analisis-sentimen-coretax.git)
 cd analisis-sentimen-coretax
+
+### 2. Buat Virtual Environment & Aktifkan
+* **Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate
+
+* **Mac/Linux:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+
+### 3. Install Dependensi
+```bash
+pip install -r requirements.txt
+
+### 4. Jalankan Aplikasi Streamlit
+```bash
+streamlit run app.py
